@@ -5,9 +5,13 @@ This is a php profile picture generator application specially made for the ssc s
 ## Features
 
 Cross Browser Support
+
 Responsive Design
+
 Light Load Time
+
 PHP Proggramming
+
 SEO Ready
 
 
