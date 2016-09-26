@@ -46,7 +46,7 @@
 								<a href="http://facebook.com/tawsif.torabi" target="_blank">Creator</a>
 								</br>
 								</br>
-								<iframe src="https://www.facebook.com/plugins/share_button.php?href=http%3A%2F%2Fapp.grplusbd.net%2Ffb%2Fno7creatives&layout=button_count&size=small&mobile_iframe=true&appId=164293520647951&width=68&height=20" width="70" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+								<iframe src="https://www.facebook.com/plugins/share_button.php?href=http%3A%2F%2Fapp.grplusbd.net%2Ffb%2Fsay-no-to-7-creatives%2F&layout=button_count&size=small&mobile_iframe=true&appId=164293520647951&width=68&height=20" width="68" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 								<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fgrplusbd&width=72&layout=button_count&action=like&size=small&show_faces=false&share=false&height=21&appId=164293520647951" width="76" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 							</p>
 				
@@ -56,7 +56,9 @@
 						<div class="box">
 						<center>
 							<div class="sample-images">
-								<img src="img/1.png" width="100%" alt="#say_no_to_7_creatives">
+								<img src="img/cov1.jpeg" width="100%" alt="#say_no_to_7_creatives">
+								<img src="img/cov2.jpeg" width="100%" alt="#say_no_to_7_creatives">
+								<img src="img/cov3.jpeg" width="100%" alt="#say_no_to_7_creatives">
 							</div>
 						</center>
 							<div class="upload-file-area">
@@ -91,7 +93,7 @@
 							</div>
 							</br>
 							<center>
-								<iframe src="https://www.facebook.com/plugins/share_button.php?href=http%3A%2F%2Fapp.grplusbd.net%2Ffb%2Fno7creatives&layout=button_count&size=small&mobile_iframe=true&appId=164293520647951&width=68&height=20" width="70" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+								<iframe src="https://www.facebook.com/plugins/share_button.php?href=http%3A%2F%2Fapp.grplusbd.net%2Ffb%2Fsay-no-to-7-creatives%2F&layout=button_count&size=small&mobile_iframe=true&appId=164293520647951&width=68&height=20" width="68" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>								
 								<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fgrplusbd&width=72&layout=button_count&action=like&size=small&show_faces=false&share=false&height=21&appId=164293520647951" width="76" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 							</center>
 							
