@@ -1,0 +1,246 @@
+html, body{
+	font-family: arial;
+	margin: 0px;
+	margin-top: 0px;
+	font-size: 100%;
+	background: black;
+}
+.clearfix:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+     }
+.clearfix { display: inline-block; }
+/* start commented backslash hack \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+/* close commented backslash hack */
+
+a{
+	color: black;
+	text-decoration: none;
+	transition: 0.5s;
+	font-weight: bold;
+}
+a:hover{
+	color: red;
+	text-decoration: none;
+	font-weight: bold;
+	transition: 0.5s;
+}
+
+.home {
+    background: black;
+	margin: 0px;
+	height: 100%;
+}
+
+.mainbox {
+    width: 600px;
+    margin: auto;
+    margin-top: 0px;
+    padding: 5px 10px;
+	padding-top: 10px;
+}
+.mainbox h1 {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 32px;
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    border: 8px solid #fff;
+    padding: 10px 0px 6px;
+    margin: 0px;
+	border-radius: 9px;
+}
+}
+
+.sample-images {
+	width: 100%;
+	height: 225px;
+}
+.sample-images img {
+    width: 100%;
+    /* float: left; */
+    text-align: center;
+}
+
+
+    @media (max-width: 650px) {
+		.mainbox {
+			width: 90%;
+			height: 900px;
+			margin: auto;
+			margin-top: 10px;
+			padding: 5px 10px;
+		}
+    }
+        
+
+.box{
+	background-color: #fff;
+	height: auto;
+	margin-top: 15px;
+	position: relative;
+	    box-shadow: 1px 1px 50px white;
+}
+
+.upload-file-area {
+    padding: 15px;
+    margin-top: 10px;
+    padding-top: 35px;
+}
+.upload-file-area{}
+.upload-file-area h2 {
+    font-size: 24px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+.box input[type="file"] {
+    color: white;
+    border: 2px solid black;
+    padding: 5px 10px;
+    background-color: black;
+    font-size: 20px;
+    border-radius: 9px;
+    box-shadow: 1px 1px 6px black;
+}
+
+.inputfile + label {
+    max-width: 70%;
+    font-size: 1.25rem;
+    font-weight: 700;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    cursor: pointer;
+    display: block;
+    overflow: hidden;
+    padding: 0.625rem 1.25rem;
+    float: left;
+    width: 60%;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.upload-file-area .btn-submit {
+    display: block;
+    border: 0px solid #fff;
+    background-color: #fd000f;
+    font-size: 20px;
+    color: #fff;
+    text-transform: capitalize;
+    padding: 5px 70px;
+    border-radius: 9px;
+    box-shadow: 1px 1px 6px black;
+}
+
+.copyright {
+    display: block;
+    font-size: 16px;
+    text-align: center;
+    color: black;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+}
+
+.inputfile-2:focus + label, .inputfile-2.has-focus + label, .inputfile-2 + label:hover {
+    color: #fff;
+    background: #5A3090;
+    border: 2px solid #5A3090;
+}
+
+.footer {
+    margin-top: 140px;
+    display: block;
+}
+
+.mininav{
+	background: white;
+	border-radius: 9px;
+	padding: 5px 10px;
+	text-align: center;
+}
+
+.error {
+    color: #e01111;
+    font-weight: bold;
+}
+.rule:after, .rule:before{
+	clear: both;
+}
+.rule{
+	overflow: hidden;
+	width: 95%;
+	margin-top: 12px;
+	display: block;
+	clear: both;
+}
+
+.rule li {
+    color: #000000;
+}
+
+.box.upload_box{
+	height: 600px;
+}
+.uploaded_file {
+    height: auto;
+    padding: 0px 80px;
+    text-align: center;
+    background: #000000;
+}
+.uploaded_file img {
+    width: 250px;
+    height: auto;
+}
+
+
+
+
+.download{
+	height: 60px;
+	width: 100%;
+}
+.download_image {
+    width: 50%;
+    float: left;
+    background-color: red;
+    height: 100%;
+    color: #fff;
+    display: block;
+    padding: 15px 0px;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    border-radius: 0px 0px 0px 10px;
+}
+
+.download_image:hover{
+	color: black;
+}
+.home_page:hover{
+	color: red;
+}
+
+.new_gen {
+    display: block;
+    color: black;
+    width: 50%;
+    height: 100%;
+    float: left;
+    background-color: skyblue;
+    padding: 15px 0px;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    border-radius: 0px 0px 10px 0px;
+}
+
+
